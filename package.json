@@ -1,0 +1,25 @@
+{
+  "name": "linguist-custom",
+  "version": "1.0.0",
+  "description": "Script for custom translator",
+  "main": "/src/app.js",
+  "scripts": {
+    "build": "node build.js",
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateus1619/linguist-custom.git"
+  },
+  "author": "mateus1619",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateus1619/linguist-custom/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/mateus1619/linguist-custom#readme",
+  "dependencies": {
+    "esbuild": "^0.25.1"
+  }
+}
